@@ -24,8 +24,8 @@
 <a href="mailto:raghusharma70876@gmail.com"><img alt="Email" src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/raghu-sharma-58bb64239/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" /></a>
 <a href="https://www.instagram.com/raghu_.14/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
-<a href="https://linkedin.com/in/your_linkedin" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" /></a>
-</p>
+<a href="https://leetcode.com/u/Raghu1438/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=white" /></a>
+
 
 ---
 
