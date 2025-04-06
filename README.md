@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raghu Sharma</h1>
-<h3 align="center">🚀 B.Tech Final Year @MSIT | MERN Stack Developer</h3>
+<h3 align="center">🚀 B.Tech Final Year @MSIT | Full Stack Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;React+%7C+Node+%7C+MongoDB+%7C+Firebase;Love+to+Build+Things+for+the+Web+%F0%9F%9A%80" alt="Typing SVG" />
@@ -11,10 +11,10 @@
 
 - 💡 I’m currently building smart web apps with **AI integrations** and **real-time features**
 - 🔍 Exploring the magic of **serverless architecture** and **cloud-native development**
-- 🎯 Passionate about creating meaningful user experiences with **React + Node.js**
-- 🌱 Learning **AWS**, **Docker**, and scaling apps like a pro
+- 🎯 Passionate about crafting impactful user experiences using **React + Node.js**
+- 🌱 Leveling up my skills in **AWS**, **Docker**, and modern backend practices
 - 📫 Reach me at: [raghusharma70876@gmail.com](mailto:raghusharma70876@gmail.com)
-- 🤓 Fun fact: I once fixed a bug by pressing backspace — still scared to touch that file 😅
+- 🤓 Fun fact: *I once fixed a production bug by simply renaming a variable. Legendary or lucky? Still unsure 😅*
 
 ---
 
@@ -51,4 +51,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=RaghuSharma14&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaghuSharma14&layout=compact&theme=tokyonight" />
 </p>
-
