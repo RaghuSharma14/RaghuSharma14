@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Graduate B.Tech (CSE) @MSIT | Cloud & DevOps Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Cloud+\&+Devops+Engineer;React+%7C+Node+%7C+MongoDB+%7C+Firebase;Love+to+Build+Things+for+the+Web+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Cloud+%26+Devops+Engineer;React+%7C+Node+%7C+MongoDB+%7C+Firebase;Love+to+Build+Things+for+the+Web+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
