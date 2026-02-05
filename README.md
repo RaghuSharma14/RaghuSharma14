@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Raghu Sharma</h1>
 <h3 align="center">🚀 Graduate B.Tech (CSE) @MSIT | Cloud & DevOps Engineer</h3>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Cloud+%26+Devops+Engineer;Automating+the+Cloud+%26+Scaling+Ideas+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
 
+</p> -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Cloud+%26+Devops+Engineer;Automating+the+Cloud+%26+Scaling+Ideas+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
 </p>
 
 ---
