@@ -1,22 +1,16 @@
 <h1 align="center">Hi 👋, I'm Raghu Sharma</h1>
-<h3 align="center">🚀 Graduate B.Tech (CSE) @MSIT | Cloud & DevOps Engineer</h3>
-
+<h3 align="center">🎓 B.Tech CSE Graduate @MSIT | Data Analytics & Risk | Python · SQL · Power BI</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Cloud+%26+Devops+Engineer;Automating+the+Cloud+%26+Scaling+Ideas+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Data+Analytics+%26+Risk+Pipelines;Python+%7C+SQL+%7C+Power+BI+%7C+ETL;Business+Intelligence+%26+Consulting" alt="Typing SVG" />
 </p>
-
 ---
-
 ### 👨‍💻 About Me
-
-- 💡 I’m currently building smart web apps with **AI integrations** and **real-time features**
-- 🔍 Exploring the magic of **serverless architecture** and **cloud-native development**
-- 🎯 Passionate about crafting impactful user experiences using **React + Node.js**
-- 🌱 Leveling up my skills in **AWS**, **Docker**, and modern backend practices
-- 📫 Reach me at: [raghusharma70876@gmail.com](mailto:raghusharma70876@gmail.com)
-- 🤓 Fun fact: *I once fixed a production bug by simply renaming a variable. Legendary or lucky? Still unsure 😅*
-
----
+- 💡 Building end-to-end data pipelines, risk analytics systems, and business intelligence dashboards
+- 🔍 Passionate about turning messy datasets into clean, audit-ready, stakeholder-facing outputs
+- 🎯 Focused on Data Analytics, Risk & Compliance, Business Analysis, and Consulting roles
+- 🌱 Continuously expanding across Python, SQL, Power BI, Tableau, ETL, and AI-driven document intelligence
+- 📫 Reach me at: raghusharma1430@gmail.com
+- 🤓 Fun fact: *I once segmented 10,000 customer records with a single SQL query. Efficient or obsessive? Probably both 😅*
 
 ### 🔗 Connect with Me
 
@@ -25,7 +19,6 @@
 <a href="https://www.linkedin.com/in/raghu-sharma-58bb64239/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" /></a>
 <a href="https://www.instagram.com/raghu_.14/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
 <a href="https://leetcode.com/u/Raghu1438/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=white" /></a>
-
 
 ---
 
