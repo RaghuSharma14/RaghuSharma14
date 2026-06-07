@@ -3,6 +3,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Data+Analytics+%26+Risk+Pipelines;Python+%7C+SQL+%7C+Power+BI+%7C+ETL;Business+Intelligence+%26+Consulting" alt="Typing SVG" />
 </p>
+
 ---
 ### 👨‍💻 About Me
 - 💡 Building end-to-end data pipelines, risk analytics systems, and business intelligence dashboards
@@ -11,6 +12,8 @@
 - 🌱 Continuously expanding across Python, SQL, Power BI, Tableau, ETL, and AI-driven document intelligence
 - 📫 Reach me at: raghusharma1430@gmail.com
 - 🤓 Fun fact: *I once segmented 10,000 customer records with a single SQL query. Efficient or obsessive? Probably both 😅*
+
+---
 
 ### 🔗 Connect with Me
 
